@@ -63,7 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [Everything Downloader Group Helper](https://telegra.ph/file/473cc17913393959e0667.jpg)
+Hello there, I'm [Everything Downloader Group Helper](https://telegra.ph/file/7ed115f5b0b5d701d2a5a.jpg)
 
 I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
 
